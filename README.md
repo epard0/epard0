@@ -12,7 +12,7 @@
 ### About me
 
 - **Focus:** Application Security, Quantitative Development, Full-stack Development
-- **Interests:** Cryptography, Reverse Engineering, Quantitative Trading Bots, Linux & Automation
+- **Interests:** Application Development, Quantitative Trading Bots, Linux & Automation
 - **Currently Exploring:** Currently diving into quantitative development and creating trading bot strategies for crypto, stocks, and prediction market binary contracts.
 
 ---
