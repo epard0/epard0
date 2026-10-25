@@ -13,7 +13,6 @@
 
 - **Focus:** Application Security, Quantitative Development, Full-stack Development
 - **Interests:** Cryptography, Reverse Engineering, Quantitative Trading Bots, Linux & Automation
-- **CTF Experience:** Team L3ak · DEF CON 32 HTB Data Dystopia
 - **Currently Exploring:** Currently diving into quantitative development and creating trading bot strategies for crypto, stocks, and prediction market binary contracts.
 
 ---
