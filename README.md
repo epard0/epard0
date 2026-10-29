@@ -21,7 +21,7 @@
 
 **Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,bash,git,github,vscode&theme=dark" alt="Python, Bash, Git, GitHub and VS Code" />
+  <img src="https://skillicons.dev/icons?i=python,bash,sql,git,github,vscode&theme=dark" alt="Python, Bash, Git, GitHub and VS Code" />
 </p>
 
 **Operating Systems**
