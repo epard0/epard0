@@ -2,18 +2,10 @@
 
 # epard0
 
-**Just a Dude that likes computers**
+**Just a dude that likes computers**
 
 ![GitHub](https://img.shields.io/badge/GitHub-epard0-181717?style=flat-square&logo=github&logoColor=white)
 </div>
-
----
-
-### About me
-
-- **Focus:** Application Security, Quantitative Development, Full-stack Development
-- **Interests:** Application Development, Quantitative Trading Bots, Linux & Automation
-- **Currently Exploring:** Currently diving into quantitative development and creating trading bot strategies for crypto, stocks, and prediction market binary contracts.
 
 ---
 
