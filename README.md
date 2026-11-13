@@ -2,7 +2,7 @@
 
 # epard0
 
-**Trader · Programmer**
+**Just a Dude that likes computers**
 
 ![GitHub](https://img.shields.io/badge/GitHub-epard0-181717?style=flat-square&logo=github&logoColor=white)
 </div>
